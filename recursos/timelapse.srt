@@ -1,0 +1,28 @@
+1
+00:00:01,000 --> 00:00:05,000
+  This is Elche from my window
+
+2
+00:00:05,500 --> 00:00:08,500
+Elche is the city where I live.
+
+3
+00:00:09,000 --> 00:00:12,000
+  It's in the south-est of Spain
+
+4
+00:00:12,500 --> 00:00:15,500
+  with a wonderful palm grove
+
+5
+00:00:15,600 --> 00:00:18,600
+  that is considered
+World Heritage by Unesco.
+
+6
+00:00:28,000 --> 00:00:32,000
+See you soon!
+
+7
+00:00:32,000 --> 00:00:36,000
+...David Pascual...
